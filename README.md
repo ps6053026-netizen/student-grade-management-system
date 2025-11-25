@@ -62,6 +62,4 @@ Potential ideas to expand this project:
 * Add password protection for the Delete/Update functions.
 * Implement a GUI using `tkinter` or `PyQt`.
 
-## 📝 Author
-
-[Your Name]
+##  Author
